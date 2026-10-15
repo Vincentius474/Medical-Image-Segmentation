@@ -8,6 +8,9 @@ A convolutional neural network (U-Net-style encoder–decoder with skip connecti
 
 ---
 
+<img width="940" height="754" alt="screenshotB" src="https://github.com/user-attachments/assets/c3a86a24-b1f6-436d-8aab-c9e2f8ffe7f3" />
+<img width="940" height="1193" alt="screenshotA" src="https://github.com/user-attachments/assets/77fd574e-db5d-48a3-b039-f1e36efc2cc4" />
+
 ## Overview
 
 The notebook covers the full pipeline:
